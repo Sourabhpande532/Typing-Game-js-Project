@@ -12,7 +12,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
 
-## [GO LIVE]()
+## [GO LIVE](https://typing-game-live-p.netlify.app/)
 
 ## ![image](./Images/Screenshot%202022-12-07%20121341.png)
 
